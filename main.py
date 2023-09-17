@@ -174,4 +174,4 @@ async def stats(ctx,*, name=None ):
     cursor.close()
     cnx.close()
 
-client.run('YOURTOKEN')
+client.run('MTEzMzMzNDk0NjE3ODY2NjUyNg.Gb0ikk.tVnvSnh3h60CJldHyKeQo3uJ6RjkZ1Wwh20hR8')
